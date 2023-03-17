@@ -11,6 +11,7 @@ public class Controller {
         System.out.println("sdadfs");
         System.out.println("1212sdfasdsf");
         System.out.println("kshdffgskjf");
+        System.out.println("测试拉去");
         return "1111";
     }
 
