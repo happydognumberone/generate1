@@ -8,6 +8,7 @@ public class Controller {
         System.out.println("我不想知道");
         System.out.println("我不想知道11111");
         System.out.println("1211122123");
+        System.out.println("sdadfs");
         return "1111";
     }
 
